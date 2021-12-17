@@ -1,0 +1,19 @@
+{
+  "name": "carritocompras",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch-node": "^0.0.1",
+    "node-fetch": "2.0"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^3.0.3"
+  },
+  "description": ""
+}
